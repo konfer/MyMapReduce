@@ -7,27 +7,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="activation-1.1" level="project" />
-    <orderEntry type="library" name="hadoop-common-2.8.1-sources" level="project" />
-    <orderEntry type="library" name="hadoop-common-2.8.1-tests" level="project" />
-    <orderEntry type="library" name="asm-3.2" level="project" />
-    <orderEntry type="library" name="hadoop-hdfs-2.8.1-sources" level="project" />
-    <orderEntry type="library" name="hadoop-hdfs-2.8.1-sources1" level="project" />
-    <orderEntry type="library" name="hadoop-hdfs-2.8.1-tests" level="project" />
-    <orderEntry type="library" name="bootstrap" level="project" />
-    <orderEntry type="library" name="annotations-api" level="project" />
-    <orderEntry type="library" name="annotations-api1" level="project" />
-    <orderEntry type="library" name="aopalliance-1.0" level="project" />
-    <orderEntry type="library" name="hsqldb-2.0.0" level="project" />
-    <orderEntry type="library" name="hadoop-mapreduce-client-app-2.8.1-sources" level="project" />
-    <orderEntry type="library" name="hadoop-mapreduce-client-app-2.8.1" level="project" />
-    <orderEntry type="library" name="activation-1.11" level="project" />
-    <orderEntry type="library" name="hadoop-archive-logs-2.8.1-sources" level="project" />
-    <orderEntry type="library" name="activation-1.12" level="project" />
-    <orderEntry type="library" name="hadoop-yarn-api-2.8.1-sources" level="project" />
-    <orderEntry type="library" name="hadoop-yarn-server-tests-2.8.1-tests" level="project" />
-    <orderEntry type="library" name="hadoop-yarn-api-2.8.1" level="project" />
-    <orderEntry type="library" name="mrunit-1.1.0-hadoop1" level="project" />
-    <orderEntry type="library" name="mrunit-hadoop" level="project" />
   </component>
 </module>
